@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ChiragYogi
-- 👀 I’m interested in Lerning New Technology 
+- 👋 Hi, I’m Chirag Goswami
+- 👀 I’m interested in Learning New Technology 
 - 🌱 I’m currently learning Android Develpment
-
+ 
 
 <!---
 ChiragYogi/ChiragYogi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
