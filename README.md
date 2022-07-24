@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chirag Goswami
-- 👀 I’m interested in Learning New Technology 
-- 🌱 I’m currently learning Android Development
+- 👀 Android Developer by proffiesion and  interested in Learning New Technology 
+- 🌱 Looking toCcontribute on open source project
  
 
 <!---
