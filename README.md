@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chirag Goswami
-- 👀 Android Developer by profession
+- 👀 Android & Flutter Developer by profession
 - ✨ Interested in Learning New Technology 
 - 🌱 Looking to Contribute on open source project
  
